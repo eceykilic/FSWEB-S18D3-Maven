@@ -1,4 +1,5 @@
 package com.workintech.sqlrelations.entity;
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
